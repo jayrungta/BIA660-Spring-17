@@ -63,8 +63,6 @@ def run(url, w):
 
 if __name__=='__main__':
     print(run('http://tedlappas.com/wp-content/uploads/2016/09/textfile.txt','amazon'))
-    print(run('https://wordpress.org/plugins/about/readme.txt','sections'))
-
 	
 
 	
