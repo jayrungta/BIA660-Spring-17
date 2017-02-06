@@ -22,9 +22,11 @@ from nltk.corpus import stopwords
 import requests
 
 def run(url, w): 
-
+    
     freq=0 # counter of the frequency of the word 'w'
-
+    
+    w = w.lower().strip() #converting case of word 'w' to lower case and stripping
+    
     stopLex=set(stopwords.words('english')) # build a set of english stopwrods 
 
     success=False# become True when we get the file
