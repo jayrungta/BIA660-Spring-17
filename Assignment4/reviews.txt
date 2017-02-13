@@ -1,0 +1,40 @@
+Tim Brayton	rotten	Antagony & Ecstasy	 December 4, 2016	85
+Duane Byrge	fresh	Hollywood Reporter	 November 15, 2016	233
+Jami Bernard	fresh	New York Daily News	 November 14, 2015	152
+Brian Orndorf	rotten	BrianOrndorf.com	 April 5, 2012	102
+David Nusair	rotten	Reel Film Reviews	 January 3, 2012	31
+Peter Canavese	rotten	Groucho Reviews	 October 14, 2011	108
+David Gurney	fresh	Common Sense Media	 January 1, 2011	48
+Jonathan Rosenbaum	fresh	Chicago Reader	 March 24, 2008	210
+NA	fresh	Film4	 March 24, 2008	221
+NA	rotten	TV Guide	 March 24, 2008	151
+Todd McCarthy	fresh	Variety	 March 24, 2008	236
+Rita Kempley	rotten	Washington Post	 March 24, 2008	21
+NA	rotten	Time Out	 June 24, 2006	165
+Robin Clifford	rotten	Reeling Reviews	 April 9, 2005	69
+Judith Egerton	fresh	Courier-Journal (Louisville, KY)	 June 23, 2004	123
+Ryan Cracknell	rotten	Apollo Guide	 March 7, 2004	130
+John J. Puccio	rotten	Movie Metropolis	 November 10, 2003	88
+Janet Maslin	rotten	New York Times	 May 20, 2003	77
+Robert Roten	rotten	Laramie Movie Scope	 March 16, 2003	80
+Rob Vaux	rotten	Flipside Movie Emporium	 January 11, 2003	97
+Margaret A. McGurk	rotten	Cincinnati Enquirer	 October 15, 2002	61
+Clint Morris	fresh	Moviehole	 September 19, 2002	48
+Marty Mapes	fresh	Movie Habit	 August 21, 2002	111
+Eugene Novikov	rotten	Film Blather	 August 9, 2002	155
+Peter Stack	rotten	San Francisco Chronicle	 June 18, 2002	178
+Pablo Villaa	rotten	Cinema em Cena	 May 31, 2002	163
+James Kendrick	rotten	Q Network Film Desk	 February 27, 2001	62
+Kevin Thomas	fresh	Los Angeles Times	 February 14, 2001	67
+James Berardinelli	rotten	ReelViews	 January 1, 2000	154
+Milo Miles	rotten	Salon.com	 January 1, 2000	55
+Roger Ebert	fresh	Chicago Sun-Times	 January 1, 2000	172
+Desson Thomson	fresh	Washington Post	 January 1, 2000	88
+NA	fresh	Empire Magazine	 January 1, 2000	78
+Steve Rhodes	fresh	Internet Reviews	 January 1, 2000	66
+Marjorie Baumgarten	fresh	Austin Chronicle	 January 1, 2000	123
+Chris Hicks	rotten	Deseret News, Salt Lake City	 January 1, 2000	110
+Mike Clark	rotten	USA Today	 January 1, 2000	132
+Pete Croatto	rotten	Filmcritic.com	 January 1, 2000	187
+Bruce Westbrook	rotten	Houston Chronicle	 January 1, 2000	156
+Gregory Lewis	rotten	San Francisco Examiner	 January 1, 2000	150
