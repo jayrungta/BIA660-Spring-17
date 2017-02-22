@@ -5,6 +5,7 @@ Created on Wed Feb 22 17:14:55 2017
 
 @author: Jay
 
+Twitter
 Extend the twitter.py script so that it also writes the following information for each tweet to the output file:
 
 - The number of Favorites
